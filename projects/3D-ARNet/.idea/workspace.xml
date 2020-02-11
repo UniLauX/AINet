@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c51b9304-cb8f-41ae-80b8-0464264e3b2a" name="Default" comment="" />
+    <ignored path="SRNet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SRNet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ARNet_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training/ARNet_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="76" column="57" selection-end-line="91" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ARNet_main_2HSIs_pretrain.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/training/ARNet_main_2HSIs_pretrain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-513">
+              <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_loader_for_2HSIs_pretrain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training/data_loader_for_2HSIs_pretrain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions_for_training.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training/functions_for_training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="22" lean-forward="true" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/model_load.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/functions_for_samples_extraction.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/config_for_preprocess.py" />
+        <option value="$PROJECT_DIR$/training/main.py" />
+        <option value="$PROJECT_DIR$/training/models_3D.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_main_KSC.py" />
+        <option value="$PROJECT_DIR$/training/models_lw_3D.py" />
+        <option value="$PROJECT_DIR$/training/gpu_memory_test.py" />
+        <option value="$PROJECT_DIR$/training/test.py" />
+        <option value="$PROJECT_DIR$/training/train_info_PaviaU/LWNet_Pavia_dc_1e5.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/mat_2_h5.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/data_list/Pavia_split.txt" />
+        <option value="$PROJECT_DIR$/data_preprocess/data_list/PaviaU_split.txt" />
+        <option value="$PROJECT_DIR$/training/main_dr_0.5_dc_1e5.py" />
+        <option value="$PROJECT_DIR$/training/main_dc_1e5_t.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_t.py" />
+        <option value="$PROJECT_DIR$/result_plot/3D_ResNet_plot.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/function_for_cifar_preprocess.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/cifar_preprocess.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_main_Indian.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_main_PaviaU.py" />
+        <option value="$PROJECT_DIR$/Indicators_calculation.py" />
+        <option value="$PROJECT_DIR$/Indicators_calculation/OA_AA_K_calculation_main.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/data_list/Indian_train.txt" />
+        <option value="$PROJECT_DIR$/pretrain_on_cifar/LWNet_pretrain_main_cifar_10.py" />
+        <option value="$PROJECT_DIR$/indicators_calculation/functions_for_evaluating.py" />
+        <option value="$PROJECT_DIR$/indicators_calculation/OA_AA_K_calculation_main.py" />
+        <option value="$PROJECT_DIR$/pretrain_on_cifar/LWNet_pretrain_main_cifar.py" />
+        <option value="$PROJECT_DIR$/pretrain_on_cifar/functions_for_pretrain.py" />
+        <option value="$PROJECT_DIR$/subsets_extraction/subsets_extraction.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_Salinas_dc_1e5.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_Salinas-12.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_Salinas-8.py" />
+        <option value="$PROJECT_DIR$/result_plot/histogram.py" />
+        <option value="$PROJECT_DIR$/training/models/models_lw_3D.py" />
+        <option value="$PROJECT_DIR$/result_plot/higto_plot.py" />
+        <option value="$PROJECT_DIR$/result_plot/mean_std_plot.py" />
+        <option value="$PROJECT_DIR$/result_plot/mean_std_plot_2.py" />
+        <option value="$PROJECT_DIR$/training/models/models_3D.py" />
+        <option value="$PROJECT_DIR$/training/LWNet_Salinas-4.py" />
+        <option value="$PROJECT_DIR$/training/functions_for_training.py" />
+        <option value="$PROJECT_DIR$/training/models/ARNets.py" />
+        <option value="$PROJECT_DIR$/training/ARNet_main.py" />
+        <option value="$PROJECT_DIR$/training/ARNet_main_t.py" />
+        <option value="$PROJECT_DIR$/data_preprocess/preprocess.py" />
+        <option value="$PROJECT_DIR$/training/ARNet_main_pretrain_on_two_sets.py" />
+        <option value="$PROJECT_DIR$/training/data_loader_for_2HSIs_pretrain.py" />
+        <option value="$PROJECT_DIR$/training/ARNet_main_2HSIs_pretrain.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="502" />
+    <option name="y" value="66" />
+    <option name="width" value="1774" />
+    <option name="height" value="961" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+              <item name="data_preprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+              <item name="data_preprocess" type="462c0819:PsiDirectoryNode" />
+              <item name="data_list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+              <item name="indicators_calculation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+              <item name="indicators_calculation" type="462c0819:PsiDirectoryNode" />
+              <item name="evaluation_models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3D-ARNet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3D-ARNet" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/training/models" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ARNet_main_2HSIs_pretrain">
+    <configuration name="ARNet_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SRNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/ARNet_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ARNet_main_2HSIs_pretrain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SRNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/ARNet_main_2HSIs_pretrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="LWNet_Salinas-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SRNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/training" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/training/LWNet_Salinas-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="mean_std_plot_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SRNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/result_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/result_plot/mean_std_plot_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SRNet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_preprocess/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SRNet" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Python.preprocess" />
+      <item itemvalue="Python.LWNet_Salinas-4" />
+      <item itemvalue="Python.mean_std_plot_2" />
+      <item itemvalue="Python.ARNet_main" />
+      <item itemvalue="Python.ARNet_main_2HSIs_pretrain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ARNet_main_2HSIs_pretrain" />
+        <item itemvalue="Python.preprocess" />
+        <item itemvalue="Python.ARNet_main" />
+        <item itemvalue="Python.LWNet_Salinas-4" />
+        <item itemvalue="Python.mean_std_plot_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51b9304-cb8f-41ae-80b8-0464264e3b2a" name="Default" comment="" />
+      <created>1520584796426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520584796426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="446" y="119" width="1774" height="961" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49487555" visible="true" weight="0.19360365" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.11008523" side_tool="true" weight="0.3459268" />
+      <window_info active="true" anchor="bottom" x="83" y="68" width="554" height="532" id="Run" order="2" type="WINDOWED" visible="true" weight="0.24459614" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.30978933" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" x="184" y="321" width="1324" height="617" id="Debug" order="10" sideWeight="0.88991475" weight="0.32094175" />
+      <window_info id="Favorites" order="2" sideWeight="0.50512445" side_tool="true" weight="0.10085227" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.6360465" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_preprocess/mat_2_h5.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/indicators_calculation/OA_AA_K_calculation_main.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pretrain_on_cifar/functions_for_pretrain.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/subsets_extraction/subsets_extraction.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/training/functions_for_training.py</url>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="72" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>x.data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>out.data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>out</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x0.data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>branch0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pretrain_on_cifar/LWNet_pretrain_main_cifar.py" />
+    <entry file="file://$PROJECT_DIR$/subsets_extraction/subsets_extraction.py" />
+    <entry file="file://$PROJECT_DIR$/pretrain_on_cifar/functions_for_pretrain.py" />
+    <entry file="file://$PROJECT_DIR$/training/LWNet_main_PaviaU.py" />
+    <entry file="file://$PROJECT_DIR$/training/main_dr_0.5_dc_1e5.py" />
+    <entry file="file://$PROJECT_DIR$/training/LWNet_t.py" />
+    <entry file="file://$PROJECT_DIR$/training/LWNet_Salinas_dc_1e5.py" />
+    <entry file="file://$PROJECT_DIR$/training/LWNet_Salinas-8.py" />
+    <entry file="file://$PROJECT_DIR$/training/train_Salinas-8/LWNet_3/train_info_LWNet_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/training/LWNet_Salinas-12.py" />
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/torchvision/models/densenet.py" />
+    <entry file="file://$PROJECT_DIR$/result_plot/histogram.py" />
+    <entry file="file://$PROJECT_DIR$/result_plot/img/KSC_25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torch/nn/parallel/data_parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torch/nn/modules/conv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="420" selection-start-line="420" selection-end-line="420" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/PaviaU_basic.jpg" />
+    <entry file="file://$PROJECT_DIR$/result_plot/img/PaviaU_50.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/KSC_50.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/Indian_25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/Indian_50.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/PaviaU_25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/PaviaU.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indicators_calculation/functions_for_evaluating.py" />
+    <entry file="file://$PROJECT_DIR$/training/test.py" />
+    <entry file="file://$PROJECT_DIR$/result_plot/img/KSC.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/higto_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/img/Indian.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/3D_ResNet_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="44" selection-start-line="19" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/mean_std_plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_plot/mean_std_plot_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_preprocess/functions_for_samples_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="717">
+          <caret line="2827" column="41" selection-start-line="2827" selection-start-column="36" selection-end-line="2827" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_preprocess/cifar_list/cifar-10_train.txt" />
+    <entry file="file://$PROJECT_DIR$/data_preprocess/data_list/KSC_train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="19" column="57" lean-forward="true" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/models/models_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/models/models_lw_3D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torch/nn/modules/container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="344" selection-start-line="344" selection-end-line="344" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/LWNet_Salinas-4.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/env_pytorch/lib/python3.6/site-packages/torchvision/models/resnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3249">
+          <caret line="173" column="38" selection-start-line="173" selection-start-column="31" selection-end-line="173" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/train_KSC/ARNet_1/train_info_ARNet_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/training/models/ARNets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2774">
+          <caret line="146" column="41" lean-forward="true" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/ARNet_main_pretrain_on_two_sets.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_preprocess/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/ARNet_main_t.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indicators_calculation/OA_AA_K_calculation_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/functions_for_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" lean-forward="true" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/data_loader_for_2HSIs_pretrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="72" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/ARNet_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="76" column="57" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training/ARNet_main_2HSIs_pretrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

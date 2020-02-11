@@ -1,0 +1,3 @@
+timecost:0.82, lr:0.001, epoch:56, train_loss:0.0000, train_acc:100.00, val_loss:0.004137, val_acc:99.86
+timecost:0.82, lr:0.001, epoch:58, train_loss:0.0000, train_acc:100.00, val_loss:0.006770, val_acc:99.78
+timecost:0.82, lr:0.001, epoch:60, train_loss:0.0000, train_acc:100.00, val_loss:0.004605, val_acc:99.83
