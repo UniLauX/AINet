@@ -4,6 +4,8 @@ by Haokui Zhang*, [Yu Liu*](https://sites.google.com/site/yuliuunilau/home), Bei
 
 Paper link: https://128.84.21.199/abs/2002.04227
 
+
+## 1. Get "Data" and "Pretrain_on_cifar" 
 'DATA' and 'pretrain_on_cifar' can be found in Google Drive [at this link](https://drive.google.com/open?id=1LBj_G2dIhPqVw8TCbAjfwPCbmyOgal3-)
 
 1. Put 'DATA' dir under 'HSI_classification/'
