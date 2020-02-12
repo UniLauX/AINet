@@ -1,5 +1,5 @@
 
-Hyperspectral Classification Based on 3D Asymmetric Inception Network with Data Fusion Transfer Learning
+Hyperspectral Classification Based on 3D Asymmetric Inception Network with Data Fusion Transfer Learning </br>
 by Haokui Zhang*, [Yu Liu*](https://sites.google.com/site/yuliuunilau/home), Bei Fang, Ying Li, [Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/), [Ian Reid](https://cs.adelaide.edu.au/~ianr/) (* denote equal contribution)
 
 
