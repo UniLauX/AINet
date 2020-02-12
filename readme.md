@@ -9,3 +9,9 @@ by Haokui Zhang*, [Yu Liu*](https://sites.google.com/site/yuliuunilau/home), Bei
 2. Put 'pretrain_on_cifar' dir under 'HSI_classification/projects/3D-ARNet/'
 
 
+
+
+
+
+More research works from "Adelaide AI Group" can be found:
+https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io
