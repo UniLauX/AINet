@@ -2,7 +2,7 @@
 Hyperspectral Classification Based on 3D Asymmetric Inception Network with Data Fusion Transfer Learning </br>
 by [Haokui Zhang*](https://dblp.org/pers/z/Zhang:Haokui.html), [Yu Liu*](https://sites.google.com/site/yuliuunilau/home), Bei Fang, Ying Li, [Lingqiao Liu](https://sites.google.com/site/lingqiaoliu83/), [Ian Reid](https://cs.adelaide.edu.au/~ianr/) (* denote equal contribution)
 
-Paper link: https://128.84.21.199/abs/2002.04227
+Paper link: https://arxiv.org/abs/2002.04227
 
 
 ## 1. Get "Data" and "Pretrain_on_cifar" 
