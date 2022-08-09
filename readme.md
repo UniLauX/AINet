@@ -11,15 +11,8 @@ Paper link: https://arxiv.org/abs/2002.04227
 1. Put 'DATA' dir under 'HSI_classification/'
 2. Put 'pretrain_on_cifar' dir under 'HSI_classification/projects/3D-ARNet/'
 
-## 2. Data Preprocessing
 
 
-## 3. Training
-
-
-## 4. Inference
-
-
-## 5. Adelaide AI Group
+## Adelaide AI Group
 More research works from "Adelaide AI Group" can be found:
 https://github.com/Adelaide-AI-Group/Adelaide-AI-Group.github.io
